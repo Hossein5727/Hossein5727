@@ -5,7 +5,7 @@ Front End Developer
 -------------------
 
 * 🌍  I'm based in Kashan
-* 🖥️  See my portfolio at [my resume](http://http://get-resume.vercel.app/)
+* 🖥️  See my portfolio at [my resume](http://https://get-resume.vercel.app/)
 * ✉️  You can contact me at [hosseinghiasi5727@gmail.com](mailto:hosseinghiasi5727@gmail.com)
 * 🧠  I'm learning next.js
 * 🤝  I'm open to collaborating on .
