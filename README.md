@@ -5,9 +5,8 @@ Front End Developer
 -------------------
 
 * 🌍  I'm based in Kashan
-* 🖥️  See my portfolio at [my resume](http://get-resume.vercel.app/)
 * ✉️  You can contact me at [hosseinghiasi5727@gmail.com](mailto:hosseinghiasi5727@gmail.com)
-* 🧠  I'm learning react query and type script
+* 🧠  I'm learning svelte js
 * 🤝  I'm open to collaborating on .
 
 ### Skills
